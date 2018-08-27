@@ -5,6 +5,6 @@
  <hr>
  
  <p>Welcome to my website.</p>
- <a href="/about.html">About Me</a>
+ <a href="/about.md">About Me</a>
 
 </html>
