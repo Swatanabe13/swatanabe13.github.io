@@ -3,4 +3,4 @@
 <hr>
  
  <p>Welcome to my website.</p>
- <a href="/about.md">About Me</a>
+ [About me](about.md)
