@@ -1,3 +1,6 @@
 description: What it do
 title: Swatanabe13
 theme: jekyll-theme-hacker
+nav:
+- Home: 'index.md'
+- About: 'about.md'
