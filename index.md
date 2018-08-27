@@ -1,10 +1,4 @@
 <html>
- 
- <head>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  
-  <title> Swatanabe13 </title> 
- </head>
 
  <body>
  	<h1>Spencer Watanabe</h1>
