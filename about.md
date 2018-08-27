@@ -1,16 +1,5 @@
-<html>
- 
- <head> 
-  <style>
-  body  {
-      height: 500px;
-      background-image: url("Lined-Paper-White-Tileable-pattern.jpg");
-      background-color: #cccccc;
-  }
-  </style>
+<head> 
   <link rel="stylesheet" type="text/css" href="style.css">
-  
-  <title> Swatanabe13 </title> 
  </head>
 
  <body>
@@ -19,5 +8,3 @@
  
  <p>Welcome to my website.</p>
  <a href="index.html">Home</a>
-
-</html>
