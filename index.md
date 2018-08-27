@@ -1,10 +1,6 @@
-<html>
-
- <body>
+<body>
  	<h1>Spencer Watanabe</h1>
- <hr>
+<hr>
  
  <p>Welcome to my website.</p>
  <a href="/about.md">About Me</a>
-
-</html>
